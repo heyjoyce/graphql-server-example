@@ -15,6 +15,8 @@ type User {
 }
 ```
 
+> GraphQL 한글 문서 https://graphql-kr.github.io/
+
 ## Manage APIs effectively
 
 - :white_check_mark: 강력한 개발자 도구를 통해 문서를 대체
