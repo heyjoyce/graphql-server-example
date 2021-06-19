@@ -17,9 +17,9 @@ type User {
 
 ## Manage APIs effectively
 
-- :checked: 강력한 개발자 도구를 통해 문서를 대체
-- :checked: 버전 관리 없이 API 를 지속적으로 업데이트
-- :checked: 타입 시스템으로 인한 높은 재사용성
+- :white_check_mark: 강력한 개발자 도구를 통해 문서를 대체
+- :white_check_mark: 버전 관리 없이 API 를 지속적으로 업데이트
+- :white_check_mark: 타입 시스템으로 인한 높은 재사용성
 
 ## Learn
 
