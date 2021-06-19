@@ -1,0 +1,33 @@
+{
+  "name": "graphql-server-example",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "test": "jest --config ./__tests__/e2e.json --detectOpenHandles --forceExit --passWithNoTests",
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "apollo-server": "^2.8.0",
+    "apollo-server-koa": "^2.8.0",
+    "graphql": "^14.6.0",
+    "graphql-compose": "^7.2.0",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-helmet": "^4.2.0",
+    "koa-jwt": "^3.6.0",
+    "koa-morgan": "^1.0.1",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^7.4.0",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint-plugin-graphql": "^3.0.3",
+    "jest": "^27.0.4",
+    "puppeteer": "^10.0.0",
+    "supertest": "^6.1.3"
+  },
+  "author": "stunstunstun <minhyeok.jung@heyjoyce.com>",
+  "license": "ISC"
+}

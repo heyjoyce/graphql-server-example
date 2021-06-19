@@ -1,0 +1,8 @@
+{
+  "bail": true,
+  "useStderr": true,
+  "testMatch": ["<rootDir>/**/(*.)(spec|test).{js,jsx}"],
+  "testEnvironment": "<rootDir>/jest-puppeteer.environment.js",
+  "globalSetup": "<rootDir>/jest-puppeteer.setup.js",
+  "globalTeardown": "<rootDir>/jest-puppeteer.teardown.js"
+}
